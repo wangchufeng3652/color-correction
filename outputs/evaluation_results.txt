@@ -1,0 +1,19 @@
+
+
+Maize Evaluation Result
+
+Color Error (Lab):
+6.9253
+
+
+MAPE:
+3.5762%
+
+
+Total Time:
+125.013s
+
+
+FPS:
+466.29
+

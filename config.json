@@ -1,0 +1,7 @@
+{
+    "input": "data/example/input",
+    "target": "data/example/target",
+    "vectors": "data/example/vectors.json",
+    "model": "weights/best_model.pth",
+    "batch_size": 64
+}
